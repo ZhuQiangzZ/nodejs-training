@@ -8,7 +8,7 @@
             "properties": {
                 "author": {
                     "type": "string",
-                    "description": "author name"
+                    "description": "frank zhu"
                 },
                 "specs": {
                     "type": "string",
